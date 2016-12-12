@@ -19,5 +19,5 @@ The documents detail out the step-by-step guide to how to setup the Jenkins CI w
       **JSLint configuration**
         using Jenkins plug-in for JSLint, it provides guidelines on how to run the JSlint for JS code   
     ***B. Setting up Jenkins CI-advanced.docx***  
-    It's currently a work-in-progress artifact aimed to provide more advanced features and CI tools integration in addition to those covered in Basic version of th document.  
+    It's a evolving artifact aimed to provide more advanced features and CI tools integration in addition to those covered in Basic version of th document.It has few extra plug-ins(for example, FXCop plug-in) and few exception scenarios covered in detail.  
     
